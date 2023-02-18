@@ -1,0 +1,10 @@
+variable "rgname" {}
+variable "location" {}
+variable "vnet1name" {}
+variable "vnet1cidr1" {}
+variable "vnet1cidr2" {}
+variable "subnet1name" {}
+variable "subnet1cidr" {}
+variable "subnet2name" {}
+variable "subnet2cidr" {}
+variable "env" {}
