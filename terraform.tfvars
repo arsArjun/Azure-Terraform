@@ -1,4 +1,4 @@
-rgname      = "arsrdgroup1"
+rgname      = "Ars-group-1"
 location    = "eastus"
 vnet1name   = "ars-vnet"
 vnet1cidr1  = "10.31.0.0/16"
